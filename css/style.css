@@ -18,7 +18,14 @@ section .section-title {
     margin-bottom: 50px;
     text-transform: uppercase;
 }
+section{
+    background-color: white;
 
+}
+
+#team{
+    background-color: 
+}
 #team .card {
     border: none;
     background: #ffffff;
@@ -47,4 +54,32 @@ li{
 h5{
     color:white;
     font-weight: bold;
+}
+.footer-bottom{
+    background-color:darkblue
+}
+.border-1px{
+    border: 1px solid #F0F3F4;
+    background-color: #F0F3F4;
+    color: darkblue;
+    padding: 1px;
+    margin:10px;
+}
+.line-bottom{
+    color:darkblue;
+}
+
+section.cnavbar{
+    margin-top: 50px !important;
+    padding: 0px !important;
+    margin-bottom: 0px !important;
+}
+nav{
+    padding:0px !important;
+    margin:0px !important;
+    width:100%;
+}
+.navbar{
+    margin-bottom:0px !important; 
+    padding: 0px;
 }
