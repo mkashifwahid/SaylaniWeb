@@ -1,0 +1,50 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+.head{
+  
+    width: 100%;
+    height: auto;
+    position: fixed;
+    z-index: 1;
+}
+.navbar{
+    position: relative;
+}
+section {
+    padding: 60px 0;
+}
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+#team .card {
+    border: none;
+    background: #ffffff;
+    margin: 10px;
+    color: darkblue;
+}
+
+p{
+    padding: 10px;  
+}
+
+span.green{
+    color:green
+}
+
+span.blue{
+    color:darkblue;
+}
+.divider{
+    background-color: darkblue;
+}
+li{
+    display: inline-block;
+    margin: 10px;
+}
+h5{
+    color:white;
+    font-weight: bold;
+}
